@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(pic.jpg);
+    background-color: whitesmoke;
+    
+}
+.Name{
+    color: white;
+}
+.btn {
+    text-align: center;
+    padding: 45px;
+    color: white;
+    margin: 150px 0 0 0;
+
+}
+.btn1{
+    padding: 8px;
+    margin: 20px 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+.btn2{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: black
+    
